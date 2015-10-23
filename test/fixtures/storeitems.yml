@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  manufacturer: MyString
+  modelno: 1
+  category: MyString
+  description: MyString
+  price: 1
+  location: MyString
+  condition: MyString
+  warranty: MyString
+  latitude: MyString
+  longitude: MyString
+
+two:
+  name: MyString
+  manufacturer: MyString
+  modelno: 1
+  category: MyString
+  description: MyString
+  price: 1
+  location: MyString
+  condition: MyString
+  warranty: MyString
+  latitude: MyString
+  longitude: MyString
